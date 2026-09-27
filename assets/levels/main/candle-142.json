@@ -1,0 +1,30 @@
+{
+  "id": "candle-142",
+  "name": "向かい風",
+  "len": 1,
+  "len2": 18,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.B..o.#",
+    "#.#.#oo#",
+    ">.C..oR#",
+    "#S+..bT#",
+    "#....#.#",
+    "##r....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 19053,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 24.6,
+    "solution": "Uddlllluuurrrrlduuulll"
+  }
+}

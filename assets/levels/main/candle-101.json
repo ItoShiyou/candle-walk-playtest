@@ -1,0 +1,32 @@
+{
+  "id": "candle-101",
+  "name": "石の十字路",
+  "len": 12,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "###C###",
+    "###o###",
+    "#CoooC#",
+    "###o###",
+    "###S###",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 12,
+    "solutions": 6,
+    "deadLeaves": 2920,
+    "minLen": 12,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 6.7,
+    "solution": "UUUUDDLLRRRR",
+    "tags": [
+      "intro"
+    ]
+  }
+}

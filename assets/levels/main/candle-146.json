@@ -1,0 +1,29 @@
+{
+  "id": "candle-146",
+  "name": "野分",
+  "len": 9,
+  "len2": 12,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.B...R.#",
+    "#b.#C.o.<",
+    "#..##oo##",
+    "#r..C+o.#",
+    "#.T..S..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 44684,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 26.8,
+    "solution": "RUULluuuurdddrrrruuULURR"
+  }
+}

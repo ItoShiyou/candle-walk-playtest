@@ -1,0 +1,31 @@
+{
+  "id": "candle-069",
+  "name": "隣の部屋",
+  "len": 14,
+  "len2": 7,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..T.#S#",
+    "####B..#",
+    "#...#..#",
+    "#R+.#B.#",
+    "#R.....#",
+    "#.C.#B.#",
+    "#R#.C..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 8687,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.9,
+    "solution": "DDDDDDLLLULUULDDDrdrdddd"
+  }
+}

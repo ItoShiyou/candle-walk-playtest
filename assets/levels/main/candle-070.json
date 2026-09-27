@@ -1,0 +1,30 @@
+{
+  "id": "candle-070",
+  "name": "追いかける灯",
+  "len": 10,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#..##..R#",
+    "#.S.C.B##",
+    "##.R.+.T#",
+    "#..R.#C.#",
+    "#.#..B..#",
+    "#...#B.##",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 72463,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 26.1,
+    "solution": "DDRUURRURRdlddluluurru"
+  }
+}

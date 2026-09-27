@@ -1,0 +1,31 @@
+{
+  "id": "candle-024",
+  "name": "残り火",
+  "len": 24,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#....#..#",
+    "#...C.#.#",
+    "#C..#.C##",
+    "##..CC+.#",
+    "#...CC#S#",
+    "#.....C.#",
+    "#.C#.C#+#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 91864,
+    "minLen": 24,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.4,
+    "solution": "DLLDLULUURDRURULULLLLDRDDDD"
+  }
+}

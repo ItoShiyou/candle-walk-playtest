@@ -1,0 +1,29 @@
+{
+  "id": "candle-117",
+  "name": "石の心臓",
+  "len": 10,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S....b#",
+    "#T#...B#",
+    "#.+.#..#",
+    "#.R#Ro.#",
+    "#Cr.#B##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 1347,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.1,
+    "solution": "RRRRRDDDLDdddruururrddl"
+  }
+}

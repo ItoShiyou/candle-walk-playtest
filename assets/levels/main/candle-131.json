@@ -1,0 +1,29 @@
+{
+  "id": "candle-131",
+  "name": "風下",
+  "len": 14,
+  "len2": 1,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##.Rb..#",
+    "##.#C..#",
+    "#....S.#",
+    "#...#r.#",
+    "#...TB.#",
+    "###^####"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 15,
+    "solutions": 1,
+    "deadLeaves": 510,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 16.2,
+    "solution": "LlLLUURRDRRDDDL"
+  }
+}

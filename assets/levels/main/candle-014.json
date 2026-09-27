@@ -1,0 +1,31 @@
+{
+  "id": "candle-014",
+  "name": "手のひらの熱",
+  "len": 16,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#..C.#",
+    "#CC....#",
+    "#.C.C+##",
+    "#...#..#",
+    "#.+...C#",
+    "#C.....#",
+    "#..##CS#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 135575,
+    "minLen": 16,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 26.2,
+    "solution": "LURULLLLDLUUUURDRRRUU"
+  }
+}

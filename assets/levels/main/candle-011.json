@@ -1,0 +1,30 @@
+{
+  "id": "candle-011",
+  "name": "蜜の香り",
+  "len": 19,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.C..#C.#",
+    "#...#.C.#",
+    "#..#+..##",
+    "#C....C##",
+    "#+S....C#",
+    "#.CC....#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 38474,
+    "minLen": 19,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 25.4,
+    "solution": "UUUULDDDDDRRRRRRULUUUU"
+  }
+}

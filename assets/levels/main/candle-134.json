@@ -1,0 +1,29 @@
+{
+  "id": "candle-134",
+  "name": "凪を待つ",
+  "len": 7,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..R.C.#",
+    "#.....o<",
+    "#..#ooo#",
+    "#BT#.#.#",
+    "#.....S#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 17,
+    "solutions": 1,
+    "deadLeaves": 758,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 17.9,
+    "solution": "ldrrruurruUULUULL"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-013",
+  "name": "三つ目の芯",
+  "len": 17,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.C#.#..#",
+    "##..C.S.#",
+    "#C..+C.C#",
+    "#.#.....#",
+    "#..C.#+.#",
+    "#..C...C#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 65508,
+    "minLen": 17,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 26.6,
+    "solution": "LLDRRRDLDRDLLLLULLUURUU"
+  }
+}

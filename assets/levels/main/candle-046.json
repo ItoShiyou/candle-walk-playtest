@@ -1,0 +1,30 @@
+{
+  "id": "candle-046",
+  "name": "重ね色",
+  "len": 22,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#B.#.#",
+    "#.b....#",
+    "#..R.R.#",
+    "#S..BR.#",
+    "#.C+C..#",
+    "#r+..#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 28,
+    "solutions": 1,
+    "deadLeaves": 197800,
+    "minLen": 22,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 30.9,
+    "solution": "UURRURDRRDDDLLULDDLLURUURRRD"
+  }
+}

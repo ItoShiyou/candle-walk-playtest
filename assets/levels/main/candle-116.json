@@ -1,0 +1,30 @@
+{
+  "id": "candle-116",
+  "name": "古い礼拝堂",
+  "len": 11,
+  "len2": 4,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#..#B##",
+    "#...oR#",
+    "#T...##",
+    "#r+Bb##",
+    "#..C.##",
+    "#RS#..#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 7272,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 21.1,
+    "solution": "LURRRULURUUdruurrr"
+  }
+}

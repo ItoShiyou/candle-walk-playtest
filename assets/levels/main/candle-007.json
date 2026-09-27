@@ -1,0 +1,30 @@
+{
+  "id": "candle-007",
+  "name": "小さな部屋",
+  "len": 16,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#C.C..+#",
+    "#.C...+#",
+    "#.#C.#.#",
+    "#.C....#",
+    "#.#.S#.#",
+    "#C..CC.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 5108,
+    "minLen": 16,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 23.1,
+    "solution": "DRRUUUUULLLLLDRRDDLLDD"
+  }
+}

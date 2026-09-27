@@ -1,0 +1,31 @@
+{
+  "id": "candle-074",
+  "name": "寄り添う",
+  "len": 7,
+  "len2": 16,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##S...##",
+    "#R.B...#",
+    "#R##.+.#",
+    "#...#.T#",
+    "#...#B.#",
+    "#R.B##.#",
+    "#C..C..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 26,
+    "solutions": 1,
+    "deadLeaves": 66007,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 28.4,
+    "solution": "DLDDDDDuululldrdrddrddlllu"
+  }
+}

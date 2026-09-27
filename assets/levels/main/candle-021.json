@@ -1,0 +1,31 @@
+{
+  "id": "candle-021",
+  "name": "灯りの列",
+  "len": 21,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#..C...C#",
+    "#.##....#",
+    "#.+..#C##",
+    "#.+.C.C.#",
+    "#....#C.#",
+    "#C#.C.C.#",
+    "#.#..#CS#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 69360,
+    "minLen": 21,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.1,
+    "solution": "LUUUUURULLLLLLDDRDRRDDLULLD"
+  }
+}

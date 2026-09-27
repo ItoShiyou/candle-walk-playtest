@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <!--
+    配信パスがルート以外のときは、flutter build web --base-href で置き換える。
+  -->
+  <base href="/candle-walk-playtest/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="1歩進むごとに縮んでいくロウソクで、すべての燭台に火を灯すパズル。">
+
+  <!-- 起動中の地色を、アプリの背景に合わせる（白い点滅を出さない）。 -->
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#E8E0D4">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#141110">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="ロウソク行脚">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>ロウソク行脚</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #E8E0D4;
+      overflow: hidden;
+    }
+    @media (prefers-color-scheme: dark) {
+      html, body { background: #141110; }
+    }
+    /* 読み込み中の灯り。最初のフレームが出たら消す。 */
+    #loading {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #loading::after {
+      content: "";
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #E7A33E;
+      box-shadow: 0 0 24px 10px rgba(231, 163, 62, 0.35);
+      animation: breathe 2.4s ease-in-out infinite;
+    }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.45; transform: scale(0.9); }
+      50%      { opacity: 1;    transform: scale(1.1); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #loading::after { animation: none; opacity: 0.8; }
+    }
+  </style>
+</head>
+<body>
+  <div id="loading"></div>
+  <script>
+    window.addEventListener('flutter-first-frame', function () {
+      var loading = document.getElementById('loading');
+      if (loading) loading.remove();
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

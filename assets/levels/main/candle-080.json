@@ -1,0 +1,28 @@
+{
+  "id": "candle-080",
+  "name": "混ざらぬ火",
+  "len": 9,
+  "len2": 9,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#...R#.#",
+    "#.b...B#",
+    "#RTS#r.#",
+    "#...C.##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 1933,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 19.5,
+    "solution": "DLLUUURRRurrrrdldl"
+  }
+}

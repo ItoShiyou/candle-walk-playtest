@@ -1,0 +1,29 @@
+{
+  "id": "candle-148",
+  "name": "最後の風",
+  "len": 1,
+  "len2": 21,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#+...#CC#",
+    "#..#..R.#",
+    "#....B###",
+    "#oo.....<",
+    "#ooT.rSb#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 7985,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 25.4,
+    "solution": "Uluurrrddlullluuurrrdrrur"
+  }
+}

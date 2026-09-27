@@ -1,0 +1,31 @@
+{
+  "id": "candle-017",
+  "name": "折れた道",
+  "len": 18,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.CCC##C#",
+    "#...C..C#",
+    "#.#.....#",
+    "#....#..#",
+    "#..+..C+#",
+    "##..##C.#",
+    "#S....C.#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 105196,
+    "minLen": 18,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 27.7,
+    "solution": "RRRRRURULLLLUUULURRDRRRU"
+  }
+}

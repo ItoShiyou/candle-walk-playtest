@@ -1,0 +1,29 @@
+{
+  "id": "candle-133",
+  "name": "夜風",
+  "len": 10,
+  "len2": 7,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..T#..#",
+    "#S.....#",
+    "#......#",
+    "##oo.BR#",
+    "##ooC..<",
+    "########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 17,
+    "solutions": 2,
+    "deadLeaves": 18962,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 15.3,
+    "solution": "DRDRRURRDDddddrru"
+  }
+}

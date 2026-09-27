@@ -1,0 +1,31 @@
+{
+  "id": "candle-019",
+  "name": "真夜中",
+  "len": 20,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "##...C..#",
+    "##..#...#",
+    "#+#C+..##",
+    "#CC....C#",
+    "#C#C..S.#",
+    "#.....C.#",
+    "#....C#.#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 151134,
+    "minLen": 20,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 27.6,
+    "solution": "URDDLLDLUULDLLUURRURRUU"
+  }
+}

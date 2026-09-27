@@ -1,0 +1,30 @@
+{
+  "id": "candle-038",
+  "name": "紅の芯",
+  "len": 22,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#...SR.#",
+    "#.B#b..#",
+    "#.B....#",
+    "#...+r.#",
+    "#C##...#",
+    "#.+R.CR#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 72690,
+    "minLen": 22,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.1,
+    "solution": "DDLLULDDRRRRUUURDDDDDLLLLLU"
+  }
+}

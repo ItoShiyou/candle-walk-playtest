@@ -1,0 +1,30 @@
+{
+  "id": "candle-056",
+  "name": "ふたり静か",
+  "len": 4,
+  "len2": 12,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#....+R#",
+    "##.#S..#",
+    "##.C..T#",
+    "#..#BR.#",
+    "#.B..#.#",
+    "#......#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 15795,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.6,
+    "solution": "URRDLDDdddlluuulldd"
+  }
+}

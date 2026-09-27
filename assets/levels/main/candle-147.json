@@ -1,0 +1,29 @@
+{
+  "id": "candle-147",
+  "name": "風の果て",
+  "len": 10,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.C##.#T#",
+    "##..S...#",
+    "#oo.B..+#",
+    "#oob....#",
+    "#RC..r..#",
+    "#####^###"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 26201,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 24.3,
+    "solution": "LDLDLDRRRRddllldlluuu"
+  }
+}

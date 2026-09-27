@@ -1,0 +1,29 @@
+{
+  "id": "candle-145",
+  "name": "風鳴り",
+  "len": 16,
+  "len2": 7,
+  "bonus": 3,
+  "map": [
+    "###v#####",
+    "#..+.#.b#",
+    "#R.C.o.B#",
+    "#...So###",
+    "##.C.orT#",
+    "#....o..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 23112,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 25.4,
+    "solution": "lluululLULLDRDRRRUURURD"
+  }
+}

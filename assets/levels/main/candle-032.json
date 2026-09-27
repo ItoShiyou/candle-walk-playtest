@@ -1,0 +1,30 @@
+{
+  "id": "candle-032",
+  "name": "色うつり",
+  "len": 18,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#....###",
+    "#+r.B..#",
+    "#R..R.##",
+    "#.#+...#",
+    "#C.b.BC#",
+    "#....S.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 108128,
+    "minLen": 18,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 27.8,
+    "solution": "LLLLURRURDRRULUULLLLDRRR"
+  }
+}

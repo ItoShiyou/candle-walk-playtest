@@ -1,0 +1,30 @@
+{
+  "id": "candle-057",
+  "name": "背中合わせ",
+  "len": 6,
+  "len2": 9,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..S.+.#",
+    "#...#R.#",
+    "#R....##",
+    "#C.....#",
+    "#..T#..#",
+    "##B.#B.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 32957,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.8,
+    "solution": "RRDDLLLLDdluurrrdd"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-037",
+  "name": "青い影",
+  "len": 21,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.B..b.#",
+    "#RB#..##",
+    "#..r..+#",
+    "#..RS..#",
+    "##+.CC.#",
+    "#.....R#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 122339,
+    "minLen": 21,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.7,
+    "solution": "RRULUULLLDDRDDRRRDLLLLUULUU"
+  }
+}

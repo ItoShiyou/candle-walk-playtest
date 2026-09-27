@@ -1,0 +1,29 @@
+{
+  "id": "candle-132",
+  "name": "北風",
+  "len": 13,
+  "len2": 3,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##...###",
+    "#bB#CR.#",
+    "#.S....#",
+    "#......#",
+    "#Tr....#",
+    "####^###"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 16,
+    "solutions": 1,
+    "deadLeaves": 461,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 16.7,
+    "solution": "RrrrRURDDLLLLUUR"
+  }
+}

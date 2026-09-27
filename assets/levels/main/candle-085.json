@@ -1,0 +1,29 @@
+{
+  "id": "candle-085",
+  "name": "渡し火",
+  "len": 2,
+  "len2": 17,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##....B#",
+    "#.rS.T.#",
+    "#..#R.b#",
+    "#..B..##",
+    "#..+R#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 6893,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.2,
+    "solution": "RDurddldllluuldddrrr"
+  }
+}

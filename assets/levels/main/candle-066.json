@@ -1,0 +1,30 @@
+{
+  "id": "candle-066",
+  "name": "別れ道",
+  "len": 8,
+  "len2": 7,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#..#...C#",
+    "#....B###",
+    "##..B#..#",
+    "#.R+B.#R#",
+    "#.C.T...#",
+    "##SR..#.#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 27383,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.6,
+    "solution": "UURDDRRURRUuuururr"
+  }
+}

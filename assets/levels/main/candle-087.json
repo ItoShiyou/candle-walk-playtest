@@ -1,0 +1,30 @@
+{
+  "id": "candle-087",
+  "name": "紫の手前",
+  "len": 15,
+  "len2": 1,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#BrB..##",
+    "#.#..#C#",
+    "#.+..ST#",
+    "#....RR#",
+    "#..b...#",
+    "##.#...#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 11376,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.2,
+    "solution": "DRDLLLURUUULDDLLUUu"
+  }
+}

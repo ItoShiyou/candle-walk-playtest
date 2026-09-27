@@ -1,0 +1,30 @@
+{
+  "id": "candle-136",
+  "name": "吹きだまり",
+  "len": 14,
+  "len2": 4,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.rB#..#",
+    "##....+#",
+    "#.ST.R.#",
+    "#.#C..b#",
+    "#..oo..#",
+    "#..oo.##",
+    "####^###"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 5790,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 22.6,
+    "solution": "LDDRdddRrRUURDRUULLLU"
+  }
+}

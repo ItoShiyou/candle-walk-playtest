@@ -1,0 +1,32 @@
+{
+  "id": "candle-004",
+  "name": "ひとつ窓",
+  "len": 7,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#.S#..#",
+    "#C.C..#",
+    "#..+..#",
+    "##C..C#",
+    "###...#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 10,
+    "solutions": 1,
+    "deadLeaves": 410,
+    "minLen": 7,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 12.9,
+    "solution": "LDRRDLDRRR",
+    "tags": [
+      "warmup"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-063",
+  "name": "離れて灯る",
+  "len": 9,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..C.S.#",
+    "#.#....#",
+    "#R..B..#",
+    "#.RBT.##",
+    "#C..#B.#",
+    "#+R.#..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 36106,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.9,
+    "solution": "LLLLDDDDDRUUlurrdd"
+  }
+}

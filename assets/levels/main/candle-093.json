@@ -1,0 +1,30 @@
+{
+  "id": "candle-093",
+  "name": "映しあう",
+  "len": 1,
+  "len2": 21,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#r+..#.#",
+    "#....#B#",
+    "#.#.BR.#",
+    "#..RTS.#",
+    "#b.....#",
+    "#C.##..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 6473,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 25.1,
+    "solution": "Uuuullldrrddllddrurrrruuu"
+  }
+}

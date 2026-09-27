@@ -1,0 +1,30 @@
+{
+  "id": "candle-047",
+  "name": "色の迷い",
+  "len": 24,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.S..#C#",
+    "#+.#.#.#",
+    "#R.b...#",
+    "#R..BB.#",
+    "#+.R.r.#",
+    "#....C.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 30,
+    "solutions": 1,
+    "deadLeaves": 140203,
+    "minLen": 24,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 31.7,
+    "solution": "RRDDLDRRDLLLUUULDDDDRRRRRUUUUU"
+  }
+}

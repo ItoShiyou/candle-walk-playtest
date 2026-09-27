@@ -1,0 +1,30 @@
+{
+  "id": "candle-010",
+  "name": "まわり道",
+  "len": 15,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..C...#",
+    "#.CC...#",
+    "#+..C#C#",
+    "#...#S.#",
+    "##.+..C#",
+    "##..CC.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 42772,
+    "minLen": 15,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 24.9,
+    "solution": "DLLDRRRUUUULLDLLLURRU"
+  }
+}

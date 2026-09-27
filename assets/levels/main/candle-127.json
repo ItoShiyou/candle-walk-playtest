@@ -1,0 +1,30 @@
+{
+  "id": "candle-127",
+  "name": "風よけ",
+  "len": 1,
+  "len2": 2,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#S#B..#",
+    ">.....#",
+    "#..T..#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 3,
+    "solutions": 1,
+    "deadLeaves": 11,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 4.7,
+    "solution": "Duu",
+    "tags": [
+      "intro"
+    ]
+  }
+}

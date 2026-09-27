@@ -1,0 +1,28 @@
+{
+  "id": "candle-077",
+  "name": "入れ替わる",
+  "len": 4,
+  "len2": 11,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##R...R#",
+    "#B#.C..#",
+    "#.Sr...#",
+    "#.b#T..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 15,
+    "solutions": 1,
+    "deadLeaves": 2456,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 18.0,
+    "solution": "DLUUulurrrullll"
+  }
+}

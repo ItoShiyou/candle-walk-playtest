@@ -1,0 +1,30 @@
+{
+  "id": "candle-041",
+  "name": "移り香",
+  "len": 20,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R+...##",
+    "#.SRr..#",
+    "#....B.#",
+    "#.C#..+#",
+    "#.R..Cb#",
+    "#...#B.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 26,
+    "solutions": 1,
+    "deadLeaves": 153857,
+    "minLen": 20,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.4,
+    "solution": "URRRDRDDDDLUUULULDLDDLUUUU"
+  }
+}

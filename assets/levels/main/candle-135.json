@@ -1,0 +1,29 @@
+{
+  "id": "candle-135",
+  "name": "風の壁",
+  "len": 13,
+  "len2": 5,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.T....+#",
+    "##C..oR.<",
+    "#..B.o#.#",
+    "#..Sbo#.#",
+    "#.#.ro..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 8400,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 21.8,
+    "solution": "LUrrrrrdURRRRLDDLUL"
+  }
+}

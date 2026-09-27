@@ -1,0 +1,30 @@
+{
+  "id": "candle-060",
+  "name": "譲れぬ一歩",
+  "len": 12,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#...#..#",
+    "#C#..R.#",
+    "#...R#.#",
+    "#......#",
+    "#+BSB###",
+    "#....T.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 20891,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.1,
+    "solution": "DLLUUUUURRDDRURluulld"
+  }
+}

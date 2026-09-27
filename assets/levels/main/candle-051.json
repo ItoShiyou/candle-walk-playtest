@@ -1,0 +1,30 @@
+{
+  "id": "candle-051",
+  "name": "ふたつの灯",
+  "len": 5,
+  "len2": 5,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S.C..R#",
+    "#.#.##.#",
+    "#T...CB#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 10,
+    "solutions": 1,
+    "deadLeaves": 30,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 10.0,
+    "solution": "RRRRRrrrrr",
+    "tags": [
+      "intro"
+    ]
+  }
+}

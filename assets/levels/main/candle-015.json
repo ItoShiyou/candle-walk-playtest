@@ -1,0 +1,30 @@
+{
+  "id": "candle-015",
+  "name": "静かな床",
+  "len": 18,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#C..C...#",
+    "#C...+.C#",
+    "#..#...+#",
+    "#.#...#.#",
+    "#..#..CC#",
+    "#.#C.S.C#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 38070,
+    "minLen": 18,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 26.6,
+    "solution": "URDRUUUULLULLLLDRRRDDDDL"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-050",
+  "name": "最後の染め",
+  "len": 25,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##...C.#",
+    "#......#",
+    "#...S.B#",
+    "#Rb+.r##",
+    "#C#.B.R#",
+    "#+..R..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 30,
+    "solutions": 1,
+    "deadLeaves": 162028,
+    "minLen": 25,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 31.8,
+    "solution": "DRDRDLLLLLUURUUURRRRDDLULLDDDR"
+  }
+}

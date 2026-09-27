@@ -1,0 +1,30 @@
+{
+  "id": "candle-035",
+  "name": "褪せぬ色",
+  "len": 25,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.C...B#",
+    "###..RB#",
+    "#+#R...#",
+    "#.C+.S.#",
+    "#b..r..#",
+    "#.#....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 28,
+    "solutions": 1,
+    "deadLeaves": 57604,
+    "minLen": 25,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.5,
+    "solution": "DLUURULLDDLLDRRDRRRUUUUULLLL"
+  }
+}

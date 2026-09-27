@@ -1,0 +1,30 @@
+{
+  "id": "candle-094",
+  "name": "入れ替わりの間",
+  "len": 16,
+  "len2": 3,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.R...#.#",
+    "#.B..#..#",
+    "#.RT+.###",
+    "#..B....#",
+    "#.#..r###",
+    "#..C#b.S#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 16399,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.4,
+    "solution": "LLULLDLLUURULUURdruull"
+  }
+}

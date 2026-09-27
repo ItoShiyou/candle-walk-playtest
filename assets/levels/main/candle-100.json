@@ -1,0 +1,30 @@
+{
+  "id": "candle-100",
+  "name": "夜明け",
+  "len": 16,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..B...#",
+    "#.#.R#.#",
+    "#T..br.#",
+    "#BC..S.#",
+    "#..+#.##",
+    "#R...R.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 26711,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 26.8,
+    "solution": "DDLLLLURRURURRUULLDdruruu"
+  }
+}

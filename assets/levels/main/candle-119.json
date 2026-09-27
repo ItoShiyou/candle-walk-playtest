@@ -1,0 +1,29 @@
+{
+  "id": "candle-119",
+  "name": "最後の石",
+  "len": 8,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.r..###",
+    "#S.C#R##",
+    "#.B..oB#",
+    "#bTR.C##",
+    "#..+...#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 26225,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.1,
+    "solution": "RRDDRURUulddrrrruur"
+  }
+}

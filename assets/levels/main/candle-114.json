@@ -1,0 +1,29 @@
+{
+  "id": "candle-114",
+  "name": "刻まれた火",
+  "len": 5,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#...C#",
+    "#...#T.#",
+    "##B+Rr.#",
+    "#Ro.#..#",
+    "##B#Sb.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 2186,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 19.7,
+    "solution": "RUULLDLLrullldlddd"
+  }
+}

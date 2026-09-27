@@ -1,0 +1,30 @@
+{
+  "id": "candle-126",
+  "name": "風の通り道",
+  "len": 6,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#C...S#",
+    "#.###.#",
+    ">C....#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 6,
+    "solutions": 1,
+    "deadLeaves": 1,
+    "minLen": 6,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 4.4,
+    "solution": "LLLLDD",
+    "tags": [
+      "intro"
+    ]
+  }
+}

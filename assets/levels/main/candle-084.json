@@ -1,0 +1,30 @@
+{
+  "id": "candle-084",
+  "name": "夜更けの色",
+  "len": 4,
+  "len2": 11,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#..RB.#",
+    "#.Trb.#",
+    "#.#..+#",
+    "#B..S.#",
+    "#R...##",
+    "#.#..##",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 11939,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 21.6,
+    "solution": "DLLLlddrrurruuldlu"
+  }
+}

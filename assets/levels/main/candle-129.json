@@ -1,0 +1,29 @@
+{
+  "id": "candle-129",
+  "name": "すきま風",
+  "len": 6,
+  "len2": 4,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#.#...#",
+    "#B....#",
+    "#T.C.S#",
+    ">...#.#",
+    "#R...##",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 10,
+    "solutions": 1,
+    "deadLeaves": 620,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 13.4,
+    "solution": "LLurddDDLL"
+  }
+}

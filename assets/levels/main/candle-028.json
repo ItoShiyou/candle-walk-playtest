@@ -1,0 +1,29 @@
+{
+  "id": "candle-028",
+  "name": "どの火でも",
+  "len": 15,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..CrR.#",
+    "##...b.#",
+    "#..BB..#",
+    "#....+.#",
+    "##S##.R#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 7822,
+    "minLen": 15,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 21.1,
+    "solution": "URRRUULDLUURRRDDDD"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-086",
+  "name": "裏返る",
+  "len": 5,
+  "len2": 15,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#B.r..#",
+    "#.Tb..#",
+    "#R#S.R#",
+    "#.....#",
+    "#.#.B.#",
+    "###.+.#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 13358,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.8,
+    "solution": "URDDDlurrrrdddddlluullu"
+  }
+}

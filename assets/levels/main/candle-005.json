@@ -1,0 +1,32 @@
+{
+  "id": "candle-005",
+  "name": "短い廊下",
+  "len": 11,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#.#...#",
+    "#..S.##",
+    "#.C#C.#",
+    "#...C##",
+    "#..+.C#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 13,
+    "solutions": 1,
+    "deadLeaves": 258,
+    "minLen": 11,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 14.2,
+    "solution": "RDDLLULDDRRRR",
+    "tags": [
+      "warmup"
+    ]
+  }
+}

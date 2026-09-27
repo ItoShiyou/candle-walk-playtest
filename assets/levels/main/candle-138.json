@@ -1,0 +1,30 @@
+{
+  "id": "candle-138",
+  "name": "風見",
+  "len": 2,
+  "len2": 16,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..#or.#",
+    "#...oT##",
+    "#.#Co..#",
+    "#.+.o..#",
+    "#BR.bS.#",
+    "#.#....#",
+    "####^###"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 14637,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 23.7,
+    "solution": "DLuldddlldrruulullddd"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-031",
+  "name": "藍染め",
+  "len": 19,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#+#....#",
+    "#S#.+.##",
+    "#.r#..R#",
+    "#.Rb.B.#",
+    "#...B..#",
+    "#...CC.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 31759,
+    "minLen": 19,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 25.2,
+    "solution": "DRDDDRRRRUUULULDDLDRRU"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-039",
+  "name": "藍の夜",
+  "len": 21,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.S....#",
+    "#.##.BB#",
+    "#.+C.R.#",
+    "##..bR+#",
+    "#......#",
+    "#Rr.C..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 130624,
+    "minLen": 21,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.8,
+    "solution": "LDDRRDRUURRDDDDLLLLLURRRRUU"
+  }
+}

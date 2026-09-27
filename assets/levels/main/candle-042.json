@@ -1,0 +1,30 @@
+{
+  "id": "candle-042",
+  "name": "染み",
+  "len": 27,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.+#b..#",
+    "#.B..#.#",
+    "#.S.B..#",
+    "#....C##",
+    "#.C...r#",
+    "#.R+R.R#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 31,
+    "solutions": 1,
+    "deadLeaves": 73408,
+    "minLen": 27,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 31.5,
+    "solution": "DRRRURUULLDDLULULDDDDRRRRRDLLLL"
+  }
+}

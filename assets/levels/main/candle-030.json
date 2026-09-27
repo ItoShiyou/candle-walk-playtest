@@ -1,0 +1,30 @@
+{
+  "id": "candle-030",
+  "name": "薄紅",
+  "len": 17,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S..+..#",
+    "#+#.R..#",
+    "#bB..r.#",
+    "##.#.#.#",
+    "#..C..R#",
+    "#...CB.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 11789,
+    "minLen": 17,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 24.6,
+    "solution": "DDRDDRDRRULUURULURRDDDD"
+  }
+}

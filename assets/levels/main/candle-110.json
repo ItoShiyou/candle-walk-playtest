@@ -1,0 +1,30 @@
+{
+  "id": "candle-110",
+  "name": "石畳の夜",
+  "len": 5,
+  "len2": 9,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#....r#",
+    "#STbCR#",
+    "#.+...#",
+    "#.B##.#",
+    "#.oB###",
+    "##R##.#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 17,
+    "solutions": 1,
+    "deadLeaves": 3554,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 19.6,
+    "solution": "DDDRDurrrdlldlddr"
+  }
+}

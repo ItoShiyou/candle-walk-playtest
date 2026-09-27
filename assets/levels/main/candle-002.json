@@ -1,0 +1,30 @@
+{
+  "id": "candle-002",
+  "name": "足もとの影",
+  "len": 10,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#C.S.C#",
+    "#.###.#",
+    "#.....#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 10,
+    "solutions": 2,
+    "deadLeaves": 0,
+    "minLen": 10,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 4.2,
+    "solution": "LLDDRRRRUU",
+    "tags": [
+      "intro"
+    ]
+  }
+}

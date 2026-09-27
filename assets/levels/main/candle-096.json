@@ -1,0 +1,30 @@
+{
+  "id": "candle-096",
+  "name": "溶けあう夜",
+  "len": 10,
+  "len2": 11,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.r...R.#",
+    "#.#..##.#",
+    "#...T#.##",
+    "##.#...b#",
+    "##B.+.RC#",
+    "#.S...B.#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 24601,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 26.1,
+    "solution": "RRRURURDDLddlluuluurrrrr"
+  }
+}

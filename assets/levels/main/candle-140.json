@@ -1,0 +1,29 @@
+{
+  "id": "candle-140",
+  "name": "風を背に",
+  "len": 2,
+  "len2": 14,
+  "bonus": 3,
+  "map": [
+    "#####v###",
+    "#b.S....#",
+    "#####.r.#",
+    "#...oo..#",
+    "#..B+o.T#",
+    "#CR..o..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 21143,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 22.9,
+    "solution": "RRllllurrurdlddllll"
+  }
+}

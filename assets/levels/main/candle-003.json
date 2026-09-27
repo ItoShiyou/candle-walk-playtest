@@ -1,0 +1,30 @@
+{
+  "id": "candle-003",
+  "name": "曲がり角",
+  "len": 9,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S....+#",
+    "######.#",
+    "#C.....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 12,
+    "solutions": 1,
+    "deadLeaves": 0,
+    "minLen": 9,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 7.2,
+    "solution": "RRRRRDDLLLLL",
+    "tags": [
+      "intro"
+    ]
+  }
+}

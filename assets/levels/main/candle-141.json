@@ -1,0 +1,29 @@
+{
+  "id": "candle-141",
+  "name": "追い風",
+  "len": 6,
+  "len2": 12,
+  "bonus": 3,
+  "map": [
+    "#####v###",
+    "#T...b..#",
+    "#.rSo.C##",
+    "##R#o...#",
+    "#...o.+.#",
+    "##.Bo...#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 18281,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 23.3,
+    "solution": "LDDRRRrrrddddlrrruuu"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-091",
+  "name": "色の交差",
+  "len": 15,
+  "len2": 2,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#B..##",
+    "#.#..R##",
+    "#b.TC#.#",
+    "#..S..R#",
+    "#.+.r..#",
+    "#B.....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 13895,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.0,
+    "solution": "LULDDDRURRRRULLUURuu"
+  }
+}

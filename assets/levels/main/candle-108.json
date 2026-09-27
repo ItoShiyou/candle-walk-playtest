@@ -1,0 +1,29 @@
+{
+  "id": "candle-108",
+  "name": "交わる石畳",
+  "len": 8,
+  "len2": 5,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..#R#.#",
+    "##C.oB##",
+    "#....#.#",
+    "#..S.BT#",
+    "#..R.#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 13,
+    "solutions": 1,
+    "deadLeaves": 1857,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 16.5,
+    "solution": "DLUUURRUlluur"
+  }
+}

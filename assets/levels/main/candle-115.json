@@ -1,0 +1,30 @@
+{
+  "id": "candle-115",
+  "name": "沈黙の間",
+  "len": 7,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "##R##.#",
+    "#Bo.C##",
+    "##r.+.#",
+    "#.b.T.#",
+    "#.BS.##",
+    "#..R..#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 16,
+    "solutions": 1,
+    "deadLeaves": 7804,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 19.9,
+    "solution": "DLLUURDuulllrduu"
+  }
+}

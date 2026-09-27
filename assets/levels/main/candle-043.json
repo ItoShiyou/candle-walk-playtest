@@ -1,0 +1,30 @@
+{
+  "id": "candle-043",
+  "name": "染め残り",
+  "len": 21,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#...#C.#",
+    "#RSRC..#",
+    "#..r..R#",
+    "#..#...#",
+    "#+...BB#",
+    "#.+#b..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 64873,
+    "minLen": 21,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.0,
+    "solution": "DRRRRUULDLLULLDDDDDRURRDRUR"
+  }
+}

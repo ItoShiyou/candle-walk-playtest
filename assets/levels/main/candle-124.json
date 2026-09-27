@@ -1,0 +1,30 @@
+{
+  "id": "candle-124",
+  "name": "灯の終わり",
+  "len": 14,
+  "len2": 5,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "##B#..#",
+    "#.oR#.#",
+    "#.C#.R#",
+    "#..Bb.#",
+    "#rS...#",
+    "#.+TC.#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 8706,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.7,
+    "solution": "RRDRUUULDLLUUUlluuuurr"
+  }
+}

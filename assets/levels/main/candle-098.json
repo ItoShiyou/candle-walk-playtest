@@ -1,0 +1,30 @@
+{
+  "id": "candle-098",
+  "name": "まじわりの果て",
+  "len": 4,
+  "len2": 17,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R..b..#",
+    "#RTC.+.#",
+    "#...S#B#",
+    "#.#R.r##",
+    "#B.....#",
+    "#...#..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 27546,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 25.6,
+    "solution": "UURDRDdlddrrrrulluuulld"
+  }
+}

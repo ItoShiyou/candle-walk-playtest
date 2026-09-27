@@ -1,0 +1,29 @@
+{
+  "id": "candle-107",
+  "name": "染まる石畳",
+  "len": 21,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##S...##",
+    "#C..boB#",
+    "#...#R##",
+    "#.#..#.#",
+    "#..Cr..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 465,
+    "minLen": 21,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 19.7,
+    "solution": "DLDDDRRRULUUURRDDULRR"
+  }
+}

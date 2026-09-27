@@ -1,0 +1,29 @@
+{
+  "id": "candle-130",
+  "name": "吹き抜け",
+  "len": 3,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#B.T..#",
+    "#.R..S#",
+    "#.....#",
+    "#.#.C##",
+    "#..#..#",
+    "####^##"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 11,
+    "solutions": 1,
+    "deadLeaves": 413,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 13.6,
+    "solution": "llddrrdrLLL"
+  }
+}

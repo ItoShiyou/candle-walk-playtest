@@ -1,0 +1,31 @@
+{
+  "id": "candle-128",
+  "name": "身代わりの灯",
+  "len": 5,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R..S#B#",
+    "#.####.#",
+    ">......#",
+    "#..T...#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 11,
+    "solutions": 4,
+    "deadLeaves": 46,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 5.5,
+    "solution": "LLLDDurrruu",
+    "tags": [
+      "intro"
+    ]
+  }
+}

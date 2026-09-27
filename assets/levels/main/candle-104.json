@@ -1,0 +1,29 @@
+{
+  "id": "candle-104",
+  "name": "冷たい石",
+  "len": 22,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#C.C#C##",
+    "#C...oC#",
+    "##+...##",
+    "#C#..#S#",
+    "#......#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 25,
+    "solutions": 2,
+    "deadLeaves": 452,
+    "minLen": 22,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 15.6,
+    "solution": "DLLUURUUDRLLLULLDRDRDDLLU"
+  }
+}

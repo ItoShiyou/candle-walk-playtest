@@ -1,0 +1,30 @@
+{
+  "id": "candle-068",
+  "name": "呼びあう火",
+  "len": 9,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#T.B...#",
+    "#.R.+B.#",
+    "#.#C.#.#",
+    "#..R#..#",
+    "#..CR.##",
+    "#S...B.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 79068,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 25.0,
+    "solution": "RRRULUUULrrrdrrddldd"
+  }
+}

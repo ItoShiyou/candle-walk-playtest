@@ -1,0 +1,30 @@
+{
+  "id": "candle-062",
+  "name": "灯しあう",
+  "len": 7,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#...SC+.#",
+    "#B.B.#.##",
+    "###.#.R.#",
+    "#T......#",
+    "#..#..R##",
+    "#B..#R.C#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 9478,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.6,
+    "solution": "RRDDDDLDRRddruuruull"
+  }
+}

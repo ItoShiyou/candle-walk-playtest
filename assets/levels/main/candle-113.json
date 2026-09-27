@@ -1,0 +1,29 @@
+{
+  "id": "candle-113",
+  "name": "石の迷宮",
+  "len": 16,
+  "len2": 2,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R....r#",
+    "#.S..#+#",
+    "##bT.BC#",
+    "#Bo....#",
+    "##R#.#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 2185,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 21.5,
+    "solution": "LURRRRRDDDLLLLDUUDLrr"
+  }
+}

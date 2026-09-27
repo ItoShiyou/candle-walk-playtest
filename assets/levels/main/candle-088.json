@@ -1,0 +1,30 @@
+{
+  "id": "candle-088",
+  "name": "ふたつの染め",
+  "len": 17,
+  "len2": 2,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#b..r#",
+    "#S...C##",
+    "#.B..#.#",
+    "#..R+..#",
+    "#.T..###",
+    "#..R.B.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 7549,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.5,
+    "solution": "DDDDRRUUUUURRDLDDDDRuu"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-065",
+  "name": "ふたつの芯",
+  "len": 17,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R..T.B#",
+    "#.#+B..#",
+    "#...#C.#",
+    "#.#BR..#",
+    "#....#.#",
+    "#..S.CR#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 62910,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 27.8,
+    "solution": "RRRUUULDLDLLLUUUUrrdllldd"
+  }
+}

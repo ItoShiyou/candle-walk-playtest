@@ -1,0 +1,30 @@
+{
+  "id": "candle-034",
+  "name": "染め替え",
+  "len": 20,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.R..S.#",
+    "###..BC#",
+    "#.#....#",
+    "#.+.CbB#",
+    "#.....r#",
+    "#+..#.R#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 45010,
+    "minLen": 20,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 26.2,
+    "solution": "LDDDRUURDDDDLULLLURUUUL"
+  }
+}

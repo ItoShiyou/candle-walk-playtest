@@ -1,0 +1,30 @@
+{
+  "id": "candle-008",
+  "name": "西の角",
+  "len": 16,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.C...C#",
+    "#.#.C#S#",
+    "#..+#C.#",
+    "#CC.C..#",
+    "#...C..#",
+    "#..+..##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 17968,
+    "minLen": 16,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 24.5,
+    "solution": "ULLDLULLDDDRURDDDRUURU"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-092",
+  "name": "しるしの火",
+  "len": 5,
+  "len2": 13,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.S..T.#",
+    "###.#..#",
+    "#Cb.B+.#",
+    "#.#....#",
+    "##..RR.#",
+    "#.rB...#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 21,
+    "solutions": 1,
+    "deadLeaves": 17036,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.8,
+    "solution": "RDDLLddldrrddllllurrr"
+  }
+}

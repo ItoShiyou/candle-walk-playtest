@@ -1,0 +1,28 @@
+{
+  "id": "candle-078",
+  "name": "借りた色",
+  "len": 16,
+  "len2": 2,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.R...C#",
+    "##..r..#",
+    "#bS#..T#",
+    "#.B..R##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 855,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 18.6,
+    "solution": "LDRRRUULLURRRDDDuu"
+  }
+}

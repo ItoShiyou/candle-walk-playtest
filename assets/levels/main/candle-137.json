@@ -1,0 +1,30 @@
+{
+  "id": "candle-137",
+  "name": "木枯らし",
+  "len": 1,
+  "len2": 18,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.....T#",
+    "#..oob.#",
+    "##.oC.##",
+    "#B#or..#",
+    "#....R.#",
+    "#.S+..##",
+    "###^####"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 21301,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 22.9,
+    "solution": "Rllddddruuulldddllu"
+  }
+}

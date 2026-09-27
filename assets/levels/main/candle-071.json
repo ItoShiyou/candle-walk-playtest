@@ -1,0 +1,31 @@
+{
+  "id": "candle-071",
+  "name": "待ち合わせ",
+  "len": 14,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##R....#",
+    "#.C###R#",
+    "#.B#.#+#",
+    "#...B..#",
+    "#...R#C#",
+    "#BT....#",
+    "#...S#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 37564,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 27.2,
+    "solution": "LUURDRRUUUUULLLLDluuurdrr"
+  }
+}

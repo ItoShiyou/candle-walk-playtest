@@ -1,0 +1,30 @@
+{
+  "id": "candle-033",
+  "name": "紅と藍",
+  "len": 17,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R.....#",
+    "#.#R..+#",
+    "#+#..B.#",
+    "#...CC.#",
+    "#.B..#b#",
+    "#..r#.S#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 14691,
+    "minLen": 17,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 24.9,
+    "solution": "UUUULDDLLLDRDLLUUUUURRD"
+  }
+}

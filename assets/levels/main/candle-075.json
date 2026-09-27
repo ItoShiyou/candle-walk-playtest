@@ -1,0 +1,30 @@
+{
+  "id": "candle-075",
+  "name": "ふたりの果て",
+  "len": 14,
+  "len2": 11,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.C.S#.##",
+    "##..R+..#",
+    "#.#..BT.#",
+    "#.C.R...#",
+    "#B###.#.#",
+    "#...BR..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 28,
+    "solutions": 1,
+    "deadLeaves": 48937,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 29.3,
+    "solution": "LLDRRRRRDDDDLLUULllldllddrrr"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-064",
+  "name": "間の壁",
+  "len": 10,
+  "len2": 7,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#..##C.##",
+    "#...R#.B#",
+    "#.#...RC#",
+    "#S.#TR+.#",
+    "#....B.B#",
+    "#..#...##",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 36016,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.1,
+    "solution": "UURRRDRDRUUULdrrruuu"
+  }
+}

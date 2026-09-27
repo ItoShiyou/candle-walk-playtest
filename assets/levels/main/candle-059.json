@@ -1,0 +1,30 @@
+{
+  "id": "candle-059",
+  "name": "肩を並べて",
+  "len": 12,
+  "len2": 4,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..+#.R#",
+    "#.T.C..#",
+    "#..#...#",
+    "#RB#S#.#",
+    "#..B...#",
+    "##.....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 16125,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.6,
+    "solution": "URRUULDLLULLDDDdddr"
+  }
+}

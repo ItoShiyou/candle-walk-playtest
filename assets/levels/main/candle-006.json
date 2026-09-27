@@ -1,0 +1,32 @@
+{
+  "id": "candle-006",
+  "name": "夜のはじまり",
+  "len": 9,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#.....#",
+    "#C...##",
+    "##+C.C#",
+    "#S..#C#",
+    "#...#.#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 12,
+    "solutions": 1,
+    "deadLeaves": 294,
+    "minLen": 9,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 13.8,
+    "solution": "RUULURRDDRRD",
+    "tags": [
+      "warmup"
+    ]
+  }
+}

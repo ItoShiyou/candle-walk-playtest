@@ -1,0 +1,30 @@
+{
+  "id": "candle-067",
+  "name": "対の燭台",
+  "len": 10,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "###.CB###",
+    "#..#R..C#",
+    "##....#+#",
+    "#SR..BB.#",
+    "#..#R...#",
+    "#....T..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 41363,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.7,
+    "solution": "RDDRRUUUUUuurruullu"
+  }
+}

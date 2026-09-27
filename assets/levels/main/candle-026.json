@@ -1,0 +1,32 @@
+{
+  "id": "candle-026",
+  "name": "紅をまとう",
+  "len": 14,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S.r..R#",
+    "#.####.#",
+    "#..b...#",
+    "#.####.#",
+    "#B.....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 14,
+    "solutions": 1,
+    "deadLeaves": 6,
+    "minLen": 14,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 10.6,
+    "solution": "RRRRRDDLLLLLDD",
+    "tags": [
+      "intro"
+    ]
+  }
+}

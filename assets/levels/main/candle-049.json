@@ -1,0 +1,30 @@
+{
+  "id": "candle-049",
+  "name": "深藍",
+  "len": 23,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#B....B#",
+    "#...bC.#",
+    "#R#..#.#",
+    "#.+...R#",
+    "#...S..#",
+    "#+RrC.##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 29,
+    "solutions": 1,
+    "deadLeaves": 126981,
+    "minLen": 23,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 31.0,
+    "solution": "LDRRURULLLLDDLUUUURRRRRULLLLL"
+  }
+}

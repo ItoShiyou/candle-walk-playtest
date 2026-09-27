@@ -1,0 +1,30 @@
+{
+  "id": "candle-073",
+  "name": "重ならない",
+  "len": 16,
+  "len2": 5,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#.TB.#RC#",
+    "##.+.#..#",
+    "#.#CS...#",
+    "#.#..#..#",
+    "#.R#.BB.#",
+    "##...R..#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 26416,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 26.2,
+    "solution": "RRUURDDDDDLLLLLUrdddrdrr"
+  }
+}

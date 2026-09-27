@@ -1,0 +1,30 @@
+{
+  "id": "candle-089",
+  "name": "巡る色",
+  "len": 9,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..+..B#",
+    "#CB#..R#",
+    "#....#.#",
+    "#.R..S##",
+    "#b.....#",
+    "#r.#T.##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 12895,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.1,
+    "solution": "LLLURRURRullluuururrrr"
+  }
+}

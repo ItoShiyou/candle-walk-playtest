@@ -1,0 +1,29 @@
+{
+  "id": "candle-105",
+  "name": "石の回廊",
+  "len": 21,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##C#.CC#",
+    "#.oC#..#",
+    "#S.##..#",
+    "##+..C.#",
+    "#C.....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 24,
+    "solutions": 2,
+    "deadLeaves": 1534,
+    "minLen": 21,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 16.2,
+    "solution": "URUDRLDDRRRUUURDDDDLLLLL"
+  }
+}

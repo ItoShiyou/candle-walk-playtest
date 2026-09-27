@@ -1,0 +1,30 @@
+{
+  "id": "candle-055",
+  "name": "向かい火",
+  "len": 7,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#SCB..#",
+    "#...###",
+    "#..+..#",
+    "#.#.#.#",
+    "#...R.#",
+    "#.T.C.#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 11541,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 21.6,
+    "solution": "DDDDRRRrrruuulluul"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-099",
+  "name": "最後の灯り",
+  "len": 9,
+  "len2": 14,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#S.....R#",
+    "#T.B.#..#",
+    "#.#...RB#",
+    "#.#b#...#",
+    "#+#.r..##",
+    "#.C..#.##",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 26,
+    "solutions": 1,
+    "deadLeaves": 10872,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 26.3,
+    "solution": "RRRRRRDLDddddrruuuurdrdrru"
+  }
+}

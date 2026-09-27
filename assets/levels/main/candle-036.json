@@ -1,0 +1,30 @@
+{
+  "id": "candle-036",
+  "name": "夕焼けの間",
+  "len": 19,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.C.#.R#",
+    "#..C..R#",
+    "#..B.+.#",
+    "##..+..#",
+    "#SRB.r##",
+    "#b.....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 152837,
+    "minLen": 19,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 28.8,
+    "solution": "DRRUUURDDRUURUULDLLULDDDD"
+  }
+}

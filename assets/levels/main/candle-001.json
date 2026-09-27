@@ -1,0 +1,28 @@
+{
+  "id": "candle-001",
+  "name": "最初の灯り",
+  "len": 4,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#S...C#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 4,
+    "solutions": 1,
+    "deadLeaves": 0,
+    "minLen": 4,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 2.4,
+    "solution": "RRRR",
+    "tags": [
+      "intro"
+    ]
+  }
+}

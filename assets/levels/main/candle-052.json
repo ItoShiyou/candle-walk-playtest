@@ -1,0 +1,29 @@
+{
+  "id": "candle-052",
+  "name": "分けあう道",
+  "len": 12,
+  "len2": 2,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.C..#.#",
+    "#RBS...#",
+    "#..#...#",
+    "#.T..+.#",
+    "#...##C#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 16,
+    "solutions": 1,
+    "deadLeaves": 3769,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 19.1,
+    "solution": "ULLDDDDRRURRRDuu"
+  }
+}

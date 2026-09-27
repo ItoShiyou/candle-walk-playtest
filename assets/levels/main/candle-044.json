@@ -1,0 +1,30 @@
+{
+  "id": "candle-044",
+  "name": "紅差し",
+  "len": 24,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.....C#",
+    "#.C.B#+#",
+    "#RB+.SR#",
+    "#...r..#",
+    "#.#...##",
+    "#..R.b.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 30,
+    "solutions": 1,
+    "deadLeaves": 83837,
+    "minLen": 24,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 31.1,
+    "solution": "LDRRUUULLLLLDDDDDRRRRULLUULURR"
+  }
+}

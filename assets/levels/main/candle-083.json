@@ -1,0 +1,29 @@
+{
+  "id": "candle-083",
+  "name": "ほどける色",
+  "len": 13,
+  "len2": 3,
+  "bonus": 3,
+  "map": [
+    "########",
+    "##r.+.##",
+    "#.S.b.B#",
+    "#....R.#",
+    "##.....#",
+    "#.#BR.T#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 19,
+    "solutions": 1,
+    "deadLeaves": 12089,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 22.2,
+    "solution": "URRRDDDDLUUULDDDuuu"
+  }
+}

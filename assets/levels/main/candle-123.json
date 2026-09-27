@@ -1,0 +1,29 @@
+{
+  "id": "candle-123",
+  "name": "夜の底",
+  "len": 9,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S....##",
+    "#.C.BoR#",
+    "#+C.#B##",
+    "#.R..#T#",
+    "#.r#.b.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 6055,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.3,
+    "solution": "DDDRUUURRRDRdlluluurrd"
+  }
+}

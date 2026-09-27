@@ -1,0 +1,31 @@
+{
+  "id": "candle-023",
+  "name": "回廊",
+  "len": 20,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "##...#..#",
+    "#..##CC##",
+    "#..S..C+#",
+    "#.C..C..#",
+    "#C.C#..##",
+    "##......#",
+    "#C.C..+C#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 26,
+    "solutions": 1,
+    "deadLeaves": 133524,
+    "minLen": 20,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.2,
+    "solution": "LDLDRRURRUURDRDLDDRDLLLLLL"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "candle-090",
+  "name": "移ろい",
+  "len": 11,
+  "len2": 8,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#S.....#",
+    "#...BR.#",
+    "#b.B#.##",
+    "##.#Tr.#",
+    "#R.....#",
+    "#C...+##",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 44290,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 25.5,
+    "solution": "RRRRDDDDDLLLLUdlluurur"
+  }
+}

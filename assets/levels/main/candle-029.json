@@ -1,0 +1,29 @@
+{
+  "id": "candle-029",
+  "name": "朱の廊下",
+  "len": 17,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.B.b.##",
+    "#+#.S..#",
+    "#..RRC##",
+    "#.#.r..#",
+    "#.....B#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 20,
+    "solutions": 1,
+    "deadLeaves": 1644,
+    "minLen": 17,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 20.5,
+    "solution": "ULLLDDDDRRRRRULLLURR"
+  }
+}

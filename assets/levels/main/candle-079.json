@@ -1,0 +1,29 @@
+{
+  "id": "candle-079",
+  "name": "まじわる灯",
+  "len": 6,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "#######",
+    "#.B####",
+    "#..RC.#",
+    "#.r..B#",
+    "#.T.#b#",
+    "#S....#",
+    "#######"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 16,
+    "solutions": 1,
+    "deadLeaves": 1643,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 18.1,
+    "solution": "RRRRUUluuurddrur"
+  }
+}

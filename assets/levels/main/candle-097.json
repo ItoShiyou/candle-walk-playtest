@@ -1,0 +1,31 @@
+{
+  "id": "candle-097",
+  "name": "明けの色",
+  "len": 10,
+  "len2": 9,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#r#..#B#",
+    "#......#",
+    "#..#CR.#",
+    "#..#.+##",
+    "##.....#",
+    "#BT.S..#",
+    "#bR.##.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 17339,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.5,
+    "solution": "RUUULDDLDDLLUuuuurrrru"
+  }
+}

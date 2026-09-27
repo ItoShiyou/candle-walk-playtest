@@ -1,0 +1,31 @@
+{
+  "id": "candle-095",
+  "name": "色を継ぐ",
+  "len": 20,
+  "len2": 1,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#....B.#",
+    "##R..#.#",
+    "#.#....#",
+    "#...#..#",
+    "#r..S.B#",
+    "#T..#R+#",
+    "#C###b.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 24,
+    "solutions": 1,
+    "deadLeaves": 7626,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 24.7,
+    "solution": "LUUULURRDDRDDDDRUUUUUULd"
+  }
+}

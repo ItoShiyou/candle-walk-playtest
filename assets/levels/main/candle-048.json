@@ -1,0 +1,30 @@
+{
+  "id": "candle-048",
+  "name": "茜の窓",
+  "len": 23,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#.+..#",
+    "#B..bR.#",
+    "#....+B#",
+    "#....R##",
+    "#C#S.C.#",
+    "#R...r.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 29,
+    "solutions": 1,
+    "deadLeaves": 111347,
+    "minLen": 23,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 30.8,
+    "solution": "RRDLLLLUURRRRUULDLLLURRURRRDD"
+  }
+}

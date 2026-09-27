@@ -1,0 +1,30 @@
+{
+  "id": "candle-120",
+  "name": "深い石畳",
+  "len": 16,
+  "len2": 4,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..SRbT#",
+    "###....#",
+    "#C..#.r#",
+    "#..#B#.#",
+    "#C..o.+#",
+    "#B.#R#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 23,
+    "solutions": 1,
+    "deadLeaves": 4798,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 23.6,
+    "solution": "RRDLLDLLDDDRURRUddddlld"
+  }
+}

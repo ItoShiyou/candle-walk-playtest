@@ -1,0 +1,29 @@
+{
+  "id": "candle-139",
+  "name": "揺らぐ炎",
+  "len": 5,
+  "len2": 10,
+  "bonus": 3,
+  "map": [
+    "######v##",
+    "#B+.....#",
+    "#roooo..#",
+    "#..S....#",
+    "#.#.#b#R#",
+    "#CT....##",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 18,
+    "solutions": 1,
+    "deadLeaves": 26594,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 22.6,
+    "solution": "RRluuruuldrrrrrRRD"
+  }
+}

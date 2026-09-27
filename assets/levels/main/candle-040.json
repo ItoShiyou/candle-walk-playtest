@@ -1,0 +1,30 @@
+{
+  "id": "candle-040",
+  "name": "二色の路",
+  "len": 19,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.r.R.+#",
+    "#.CRSR.#",
+    "#......#",
+    "#.B#.C.#",
+    "#Bb....#",
+    "#..+##.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 25,
+    "solutions": 1,
+    "deadLeaves": 140183,
+    "minLen": 19,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 28.7,
+    "solution": "DDDLDLULURULUURDRURRRDLDD"
+  }
+}

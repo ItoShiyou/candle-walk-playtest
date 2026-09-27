@@ -1,0 +1,30 @@
+{
+  "id": "candle-061",
+  "name": "二手に",
+  "len": 11,
+  "len2": 12,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.T....#",
+    "#.#.R#+#",
+    "#R...#.#",
+    "#.#C.S.#",
+    "#B#....#",
+    "#....B.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 26,
+    "solutions": 1,
+    "deadLeaves": 42894,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 27.9,
+    "solution": "DLLURUULDLLrrrrdddddlllllu"
+  }
+}

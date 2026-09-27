@@ -1,0 +1,29 @@
+{
+  "id": "candle-054",
+  "name": "連れ立つ",
+  "len": 7,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#R...B##",
+    "#....#.#",
+    "#.#...##",
+    "#.T.C.S#",
+    "#C....+#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 16,
+    "solutions": 1,
+    "deadLeaves": 8348,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 20.0,
+    "solution": "DLLLLLUUUUrruuur"
+  }
+}

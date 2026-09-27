@@ -1,0 +1,30 @@
+{
+  "id": "candle-143",
+  "name": "風の回廊",
+  "len": 8,
+  "len2": 11,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..b#C.#",
+    "#.#S...#",
+    "#...rB.#",
+    "#o+.C..#",
+    "#oooR..<",
+    "#T##...#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 22,
+    "solutions": 1,
+    "deadLeaves": 8521,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 23.6,
+    "solution": "RRURDDDDurrurrulllddrr"
+  }
+}

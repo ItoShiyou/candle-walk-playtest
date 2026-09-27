@@ -1,0 +1,29 @@
+{
+  "id": "candle-109",
+  "name": "石の記憶",
+  "len": 11,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#..#R#.#",
+    "###Bo..#",
+    "#.R#..T#",
+    "#..#..B#",
+    "#SC....#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 5,
+    "par": 17,
+    "solutions": 1,
+    "deadLeaves": 4413,
+    "usesWax": false,
+    "usesDye": false,
+    "usesStone": true,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 19.9,
+    "solution": "UURDDRRUUUUdluull"
+  }
+}

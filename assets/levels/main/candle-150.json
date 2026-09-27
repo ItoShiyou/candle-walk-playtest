@@ -1,0 +1,30 @@
+{
+  "id": "candle-150",
+  "name": "灯のゆくえ",
+  "len": 9,
+  "len2": 15,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.C.##C#",
+    "#b.#.SB#",
+    "#..T.#.#",
+    "#...ooo#",
+    "#+...o.#",
+    "#R...r.#",
+    "#####^##"
+  ],
+  "meta": {
+    "chapter": 6,
+    "par": 27,
+    "solutions": 1,
+    "deadLeaves": 50286,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": true,
+    "usesWind": true,
+    "walkers": 2,
+    "difficulty": 28.7,
+    "solution": "LDDDLLLDRRRRluuldddrrrrruuu"
+  }
+}

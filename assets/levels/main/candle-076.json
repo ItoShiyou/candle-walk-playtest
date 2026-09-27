@@ -1,0 +1,30 @@
+{
+  "id": "candle-076",
+  "name": "色を渡す",
+  "len": 6,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#S..b..B#",
+    "#.##.##.#",
+    "#T..r..R#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 4,
+    "par": 12,
+    "solutions": 1,
+    "deadLeaves": 22,
+    "usesWax": false,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 10.8,
+    "solution": "RRRRRRrrrrrr",
+    "tags": [
+      "intro"
+    ]
+  }
+}

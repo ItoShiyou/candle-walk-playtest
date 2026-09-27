@@ -1,0 +1,29 @@
+{
+  "id": "candle-053",
+  "name": "並ぶ影",
+  "len": 10,
+  "len2": 6,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#.#....#",
+    "#S.CC.##",
+    "#......#",
+    "#..#+B.#",
+    "##.TR..#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 3,
+    "par": 17,
+    "solutions": 1,
+    "deadLeaves": 17575,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 2,
+    "difficulty": 21.5,
+    "solution": "RRRRDRDDLLluurrdr"
+  }
+}

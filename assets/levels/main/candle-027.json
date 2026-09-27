@@ -1,0 +1,29 @@
+{
+  "id": "candle-027",
+  "name": "藍の小径",
+  "len": 13,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#....S.#",
+    "#.R..r.#",
+    "#.#b.C.#",
+    "#R..B+.#",
+    "##.B.###",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 16,
+    "solutions": 1,
+    "deadLeaves": 4464,
+    "minLen": 13,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 19.3,
+    "solution": "DLLLLDDRRURRDLDL"
+  }
+}

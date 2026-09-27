@@ -1,0 +1,31 @@
+{
+  "id": "candle-022",
+  "name": "足りない一歩",
+  "len": 20,
+  "bonus": 3,
+  "map": [
+    "#########",
+    "#C.##.#.#",
+    "#.C....C#",
+    "#C..C#..#",
+    "#C.#C.###",
+    "#...+.C.#",
+    "#....C.##",
+    "#..+S.C.#",
+    "#########"
+  ],
+  "meta": {
+    "chapter": 1,
+    "par": 26,
+    "solutions": 1,
+    "deadLeaves": 142880,
+    "minLen": 20,
+    "usesWax": true,
+    "usesDye": false,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 29.3,
+    "solution": "LURRDRUULLUULLDLUUURDRRRRR"
+  }
+}

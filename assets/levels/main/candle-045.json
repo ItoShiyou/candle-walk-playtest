@@ -1,0 +1,30 @@
+{
+  "id": "candle-045",
+  "name": "藍鼠",
+  "len": 23,
+  "bonus": 3,
+  "map": [
+    "########",
+    "#C...S.#",
+    "#.R#R..#",
+    "#..+.r.#",
+    "#......#",
+    "#RB#.bB#",
+    "#+..C#.#",
+    "########"
+  ],
+  "meta": {
+    "chapter": 2,
+    "par": 29,
+    "solutions": 1,
+    "deadLeaves": 89438,
+    "minLen": 23,
+    "usesWax": true,
+    "usesDye": true,
+    "usesStone": false,
+    "usesWind": false,
+    "walkers": 1,
+    "difficulty": 30.6,
+    "solution": "RDDLULDLLUULDDDDDRRRURRULLLLD"
+  }
+}
